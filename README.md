@@ -2,7 +2,7 @@
 
 # Source Code for Nakagawa et al.
 
-This repository contains code which was used for "Bulk RNA sequencing reveals redox imbalance and impaired protein clearance as key drivers of chronic liver injury in biliary atresia". 
+This repository contains code which was used for "Bulk RNA sequencing reveals redox imbalance and dysfunction of protein clearance as key drivers of chronic liver injury in biliary atresia". 
 
 ## Quality Check of RNA library. 
 
