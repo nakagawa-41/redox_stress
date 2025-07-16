@@ -1,0 +1,16 @@
+# 一時ファイル
+*.log
+*.tmp
+
+# 個人設定
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+
+# 使わないRscript
+dorothea+viper.R
+gsea.R
+
+# その他
+.DS_Store
